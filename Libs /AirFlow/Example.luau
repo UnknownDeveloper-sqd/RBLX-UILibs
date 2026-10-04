@@ -1,8 +1,5 @@
--- AirFlow example: a small showcase that exercises the public API.
--- Source: https://raw.githubusercontent.com/Xyraniz/VaultUI/main/Libraries/AirFlow/source.lua
-
 local AirFlow =
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyraniz/VaultUI/main/Libraries/AirFlow/source.lua"))()
+	loadstring(game:HttpGet("https://github.com/UnknownDeveloper-sqd/RBLX-UILibs/raw/refs/heads/main/Libs%20/AirFlow/Source.luau"))()
 
 local Window = AirFlow.CreateWindow({
 	Title = "AirFlow",
