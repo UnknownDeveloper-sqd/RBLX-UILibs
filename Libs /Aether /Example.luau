@@ -1,5 +1,5 @@
 local Aether = loadstring(game:HttpGet(
-    "https://raw.githubusercontent.com/Xyraniz/VaultUI/main/Libraries/Aether/source.lua"
+    "https://github.com/UnknownDeveloper-sqd/RBLX-UILibs/raw/refs/heads/main/Libs%20/Aether%20/Source.luau"
 ))()
 
 local Window = Aether:Window({
